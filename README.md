@@ -13,3 +13,5 @@
 
 
 演示：http://www.qbb.me
+
+搜索结果演示: http://www.qbb.me/?m=baidu2&k=PHP&type=all
