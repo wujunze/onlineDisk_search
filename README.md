@@ -12,6 +12,6 @@
 百度网盘链接解析功能
 
 
-演示：http://www.qbb.me
+演示：http://pan.wujunze.com/
 
-搜索结果演示: http://www.qbb.me/?m=baidu2&k=PHP&type=all
+搜索结果演示: http://pan.wujunze.com/?m=baidu2&k=php&type=all
