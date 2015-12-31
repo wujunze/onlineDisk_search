@@ -3,7 +3,7 @@
  * @Author: 钧泽
  * @Date: 2015-07-23 14:38:40
  * @Email:1017109588@qq.com
- * @Domain:www.14jz.com
+ * @Domain:http://www.14jz.com
  * @网盘搜索引擎   程序由彩虹原创,钧泽网络二次开发,优化网站功能,修复程序BUG
  * @网站为开源程序,禁止倒卖   正版程序下载地址:www.14jz.com
  * @QQ:1017109588
