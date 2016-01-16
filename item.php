@@ -20,7 +20,6 @@ curl_close($ch);
 $nr=json_decode($body, true);
 if($nr['error'] =="1") {
 header("Location:{$ml}");
-//echo ' <div class="c1">提示</div><div class="line1">此链接无法解析下载直链，请点击分享地址下载。</div><div class="c1">分享地址:</div><div class="line1"><a href="'.$ml.'">'.$ml.'</a></div>';
 }
 else
 {
