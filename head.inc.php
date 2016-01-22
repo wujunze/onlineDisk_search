@@ -5,7 +5,7 @@
  * @Email:1017109588@qq.com
  * @Domain:www.wujunze.com
  * @网盘搜索引擎   程序由彩虹原创,钧泽网络二次开发,优化网站功能,修复程序BUG
- * @网站为开源程序,禁止倒卖   正版程序下载地址:www.14jz.com
+ * @网站为开源程序,禁止倒卖   正版程序下载地址:www.wujunze.com
  * @QQ:1017109588
  */
 header("content-type:text/html;charset=UTF-8");
